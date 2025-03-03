@@ -33,7 +33,6 @@ But that's not all—I bring a creative touch to the tech world. 🎧 With hands
 ![HTML](https://img.shields.io/badge/HTML-purple?logo=html5)<br>
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-blueviolet?logo=python)<br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-success?logo=bootstrap)<br>
-![FL Studio](https://img.shields.io/badge/FL_Studio-critical?logo=flstudio)<br>
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visualstudiocode)<br>
 ![PyCharm](https://img.shields.io/badge/PyCharm-green?logo=pycharm)
 
